@@ -1,7 +1,5 @@
-# INSTANCE2022-INtracranial-hemorrhage-SegmenTAtioN-ChallengE
 Intracranial Hemorrhage Segmentation Challenge on Non-Contrast head CT (NCCT)
 > This is an example of the CT imaging is used to Segment Intracranial Hemorrhage Segmentation.
-![](INSTANCE2022.png)
 
 ## Prerequisities
 The following dependencies are needed:
@@ -35,16 +33,6 @@ The following dependencies are needed:
 ![](3.png)
 ![](4.png)
 ![](5.png)
-* test dataset leadboard
-![](leadboard.png)
-![](test_metric.png)
+
 
 * you can find the trained model in log folder and test predict mask with zip file.
-* more detail and trained model can follow my WeChat Public article.
-
-## Contact
-* https://github.com/junqiangchen
-* email: 1207173174@qq.com
-* Contact: junqiangChen
-* WeChat Number: 1207173174
-* WeChat Public number: 最新医学影像技术
